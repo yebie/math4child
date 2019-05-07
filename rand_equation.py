@@ -1,18 +1,4 @@
 # -*- coding: utf-8 -*-
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-#
-# Copyright (c)  Baidu.com, Inc. All Rights Reserved
-#
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-"""
-(introductions here)
-
-argument: 
-(arg1 type comment_with_example)
-
-Authors: zhouyingfeng(zhouyingfeng@baidu.com)
-Date:    //
-"""
 
 import sys
 import random
